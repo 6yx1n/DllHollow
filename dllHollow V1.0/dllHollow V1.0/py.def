@@ -1,0 +1,6 @@
+EXPORTS
+	CreateServiceHost=CreateMoudle
+	CreateServiceInvoker=CreateMoudle
+	DestroyServiceHost=CreateMoudle
+	DestroyServiceInvoker=CreateMoudle
+	InitIPCCoreRuntime=CreateMoudle
